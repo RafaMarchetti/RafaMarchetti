@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://rafaelmarchetti.com.br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&theme=dark&title_color=3489eb&border_color=3489eb&include_all_comits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&layout=compact&langs_count=16&theme=dark&title_color=3489eb&border_color=3489eb"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&theme=dark&title_color=3489eb&border_color=3489eb&include_all_comits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&layout=compact&langs_count=16&theme=dark&title_color=3489eb&border_color=3489eb"/> 
 </div>
   
 <div style="display: inline_block"><br>
