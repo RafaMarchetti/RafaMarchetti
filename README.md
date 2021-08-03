@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/rafamarchetti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&langs_count=16&theme=midnight-purple"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&langs_count=16&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
