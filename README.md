@@ -6,7 +6,7 @@
 - 💖 Apaixonado por Tecnologia
 - 💻 www.rafaelmarchetti.com.br
 
-<div>
+<div align="center">
   <a href="https://rafaelmarchetti.com.br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamarchetti&show_icons=true&theme=dark&title_color=3489eb&border_color=3489eb&include_all_comits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamarchetti&layout=compact&langs_count=16&theme=dark&title_color=3489eb&border_color=3489eb"/> 
